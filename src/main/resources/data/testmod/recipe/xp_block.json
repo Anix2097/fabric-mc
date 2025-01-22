@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "QQQ",
+    "QQQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": [
+      {
+        "item": "minecraft:quartz"
+      },
+      {
+        "item": "minecraft:experience_bottle"
+      }
+    ]
+  },
+  "result": {
+    "id": "testmod:xp_block",
+    "count": 1
+  }
+}

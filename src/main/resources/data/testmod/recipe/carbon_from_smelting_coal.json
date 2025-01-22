@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "group": "testmod:carbon",
+  "ingredient": {"item": "minecraft:bone_block"},
+  "result": {
+    "id": "testmod:carbon"
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}

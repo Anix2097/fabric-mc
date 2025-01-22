@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "breeze_rod",
+  "ingredients": [
+    {"item": "minecraft:poppy"},
+    {"item": "minecraft:dirt"}
+  ],
+  "result": {
+    "id": "minecraft:breeze_rod",
+    "count": 64
+  }
+}

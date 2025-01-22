@@ -1,0 +1,15 @@
+{
+  "item.testmod.keyboard": "Keyboard",
+  "item.testmod.carbon": "Carbon",
+  "item.testmod.wrench": "Wrench",
+
+
+  "block.testmod.carbon_block": "Carbon Block",
+  "block.testmod.skibidi_teo": "🗿TEO SIGMA🗿",
+  "block.testmod.xp_block": "Block o' enchanting",
+
+  "itemgroup.testmod.mod_blocks": "Mod Blocks",
+  "itemgroup.testmod.mod_items": "Mod Items",
+  "item.testmod.katana": "Katana",
+  "item.testmod.hatchet": "Hatchet"
+}

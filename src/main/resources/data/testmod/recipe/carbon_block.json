@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "testmod:carbon"}
+  },
+  "pattern": [
+    "111",
+    "111",
+    "111"
+  ],
+
+  "result": {
+    "id": "testmod:carbon_block",
+    "count": 1
+  }
+}
